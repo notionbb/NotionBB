@@ -95,7 +95,7 @@ $lang_common = array(
 
 // Stuff for the navigator (top of every page)
 'Index'								=>	'Index',
-'User list'							=>	'User list',
+'Users'				     			=>	'Users',
 'Rules'								=>	'Rules',
 'Search'							=>	'Search',
 'Register'							=>	'Register',
@@ -104,7 +104,7 @@ $lang_common = array(
 'Profile'							=>	'Profile',
 'Logout'							=>	'Logout',
 'Logged in as'						=>	'Logged in as',
-'Admin'								=>	'Administration',
+'Admin'								=>	'Admin Area',
 'Last visit'						=>	'Last visit: %s',
 'Topic searches'					=>	'Topics:',
 'New posts header'					=>	'New',
