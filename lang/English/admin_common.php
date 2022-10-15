@@ -4,9 +4,9 @@
 $lang_admin_common = array(
 
 // The menu
-'Admin menu'			=>	'Admin menu',
-'Plugins menu'			=>	'Plugins menu',
-'Moderator menu'		=>	'Moderator menu',
+'Admin menu'			=>	'Admin',
+'Plugins menu'			=>	'Plugins',
+'Moderator menu'		=>	'Moderator',
 'Index'					=>	'Index',
 'Categories'			=>	'Categories',
 'Forums'				=>	'Forums',
