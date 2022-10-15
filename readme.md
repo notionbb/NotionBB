@@ -22,6 +22,6 @@ of the other forums have whilst not sacrificing essential functionality or usabi
 
 * Homepage: https://notionbb.com
 * Documentation: https://notionbb.com/docs/v1.5
-* Community: https://notionbb.com/forums/
+* Community: https://notionbb.com/forum
 * Resources: https://noitionbb.com/resources
 * Development: https://github.com/notionbb/notionbb
