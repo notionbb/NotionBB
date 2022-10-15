@@ -1,9 +1,9 @@
-# FluxBB 1.5 Readme
+# NotionBB 1.5 Readme
 
 ## About
 
-FluxBB is an open source forum application released under the GNU General Public
-Licence. It is free to download and use and will remain so. FluxBB was conceived and
+NotionBB is an open source forum application released under the GNU General Public
+Licence. It is free to download and use and will remain so. NotionBB was conceived and
 designed to be fast and light with less of the "not so essential" features that some
 of the other forums have whilst not sacrificing essential functionality or usability.
 
@@ -20,9 +20,8 @@ of the other forums have whilst not sacrificing essential functionality or usabi
 
 ## Links
 
-* Homepage: https://fluxbb.org
-* Documentation: https://fluxbb.org/docs/v1.5
-* Community: https://fluxbb.org/forums/
-* Resources: https://fluxbb.org/resources/
-* IRC: irc://irc.freenode.net/fluxbb
-* Development: https://github.com/fluxbb/fluxbb
+* Homepage: https://notionbb.com
+* Documentation: https://notionbb.com/docs/v1.5
+* Community: https://notionbb.com/forums/
+* Resources: https://noitionbb.com/resources
+* Development: https://github.com/notionbb/notionbb
